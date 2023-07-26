@@ -22,6 +22,7 @@ alias ps='ps auxf'
 alias ping='ping -c 10'
 alias ps='ps auxf'
 alias ping='ping -c 10'
+alias cat='bat --paging=never'
 
 # Change directory aliases
 cd() {
